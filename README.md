@@ -60,23 +60,22 @@
 <hr><br>
 <h3 align='center'>🗻 My goals for 2020</h3>
 <ul>
-  <li>* Make a Github Profile ReadMe 
-  <li>* Remake my Online Resume 
-  <li>* Update my bot Playground 
-  <li>* Complete this Year Hacktoberfest
-  <li>* Upload 4 new projects on my Github
-  <li>* Write articles for those projects or any article  
+  <li> Make a Github Profile ReadMe []
+  <li> Remake my Online Resume 
+  <li> Update my bot Playground 
+  <li> Upload 4 new projects on my Github
+  <li> Write articles for those projects or any article  
 </ul>
 <br>
 <h3 align='center'>🌀 Some Ideas</h3>
 <ul>
-  <li>* Instagram bot 
-  <li>* Micro-Frontend app 
-  <li>* Node server (typescript) 
-  <li>* GraphQL and Mongo database 
-  <li>* Recreate a design with React and Sass 
-  <li>* Recreate a design with Vue and Tailwind CSS
-  <li>* Revisit my college projects 
+  <li> Instagram bot 
+  <li> Micro-Frontend app 
+  <li> Node server (typescript) 
+  <li> GraphQL and Mongo database 
+  <li> Recreate a design with React and Sass 
+  <li> Recreate a design with Vue and Tailwind CSS
+  <li> Revisit my college projects 
 </ul>
 <br>
 <br>
