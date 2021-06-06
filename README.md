@@ -1,96 +1,108 @@
-<h2 align='center'> 🙋🏻‍♂️ Hi there, I'm Rafael 🧑🏻‍💻</h2>
-<br>
-<h4 align="center"> I'm a software developer with a degree in computer engineering from Venezuela. I love coding and building things that excite me. I'm a fan of UX and want to start a blog to share experiences and grow in the process. The technologies I enjoy the most are JS-related but I try to build little projects from time to time with languages or libraries that I consider interesting. My current role is <strong>Frontend Developer</strong> but I can be a jack of all trades if needed. </h4>
-<hr>
-<h3 align='center'>👨🏽‍💻 I’m currently employed as a Frontend Developer in <a href="https://www.linkedin.com/company/zeroq/">ZeroQ</a></h3>
+<h1 align="center">Hi there 🙋🏻‍♂️ I'm Rafael</h1>
+<h4 align="center">An optimistic frontend developer from Venezuela</h4>
+<p align="center">
+<img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif" alt="Image from @webaski"></img>
+</p>
 
-<h3 align='center'>Even though I have been working as a Frontend Developer in the last two (2) years I've played around in the past with NodeJS and some other backend technologies. So like every good developer I will now present to you a list of languages and libraries that I know or want to learn (with images I found on google) </h3>
+<h2>🚀 About me</h2>
+<h4 align="center"> I'm a software developer with a bachelor's degree in computer engineering that loves coding and building exciting things and also a fan of UX. The technologies I enjoy the most are JS-related but I try to build little projects from time to time with languages or libraries that I consider interesting. If you have an interesting project, a job proposal or open source suggestion I'm all for it. Just reach out to me at any of my social links.</h4>
 
-<h3 align='center'>First of course, the holy trinity</h3>
-<p align='center'>
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/html5-plain-wordmark.svg" alt="HTML" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/css3-plain-wordmark.svg" alt="CSS" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/javascript-original.svg" alt="JavaScript" width="150px" height="100px" />
+- 👨‍💻 I’m currently working as a Frontend Developer at <a href="https://www.linkedin.com/company/zeroq/">ZeroQ</a>
+
+- 🌱 I’m currently honing my skills in **React and Styled Components**
+
+- 💬 Chat with me about **React or web development in general** 
+
+- 📫 How to reach me **rafajrg21@gmail.com**
+
+- 🕺 Fun fact **I really love to dance**
+
+<h2>🛠️ Skills</h2>
+
+<h3> Languages </h3>
+<p align="left">  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
-<p align='center'>Like I said before, I love JavaScript and use it daily, HTML is a must for every web developer and Vanilla CSS is my go-to way to style components.</p>
-<h3>The first spot on my list for libraries/frameworks goes to TailwindCSS. It's something I really enjoy using as is an incredible time-saver and a very flexible (and ongoing) utility-first CSS framework.</h3>
-<p align='center'>
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/tailwindcss.svg" alt="Tailwind CSS" width="180px" height="100px" />
+
+<h3> Frontend Frameworks and Libraries </h3
+<p align="left">
+  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+  <p>State Management</p>
+  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 </p>
-<h3>And of course my backend of choice is the ol' reliable NodeJS</h3>
-<p align='center'>
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/nodejs-original-wordmark.svg" alt="NodeJS" width="150px" height="100px" />
+
+<h3> CSS frameworks and preprocessors</h3>
+<p align="left"> 
+  <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 
+  <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
-<hr>
-<h3>Following the thread on the frameworks department, we have the "big" framework space.</h3>
-<p align='center'>
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/vuejs-original-wordmark.svg" alt="VueJS" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/ionic-original-wordmark.svg" alt="Ionic" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/Elixir-Phoenix.jpg" alt="Elixir & Phoenix" width="300px" height="150px" />
+
+<h3>Serverside and database related</h3>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
-<p>VueJS and Ionic are both really good complete frameworks that I enjoy making little projects with. Now Phoenix -an impressive Elixir framework for live views- is something I only scratched the surface on my previous work, but I would love to get my hands dirty with it and bring out it's full potential.</p>
-<hr>
-<h3>For Frontend related libraries we have the most popular and the most awesome imo</h3>
-<p align='center'>
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/react-original-wordmark.svg" alt="React" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/sass-original.svg" alt="Sass" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/styled-components.png" alt="StyledComponents" width="150px" height="100px" />
+
+<h3>ServerSide Rendering</h3>
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
 </p>
-<hr>
-<h3>Some other relevant things I'm familiar or even proficient with...</h3>
-<p align='center'>
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/git-plain.svg" alt="Git" width="150px" height="150px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/yarn-original-wordmark.svg" alt="Yarn" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/ubuntu-plain-wordmark.svg" alt="Ubuntu cmd" width="150px" height="150px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/typescript-original.svg" alt="Typescript" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/mongodb-original-wordmark.svg" alt="MongoDB" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/postgresql-original-wordmark.svg" alt="Postgresql" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/sequelize-plain-wordmark.svg" alt="Sequelize" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/webpack-original-wordmark.svg" alt="Webpack" width="150px" height="100px" />
+
+<h3>Testing</h3>
+<p align="left"> 
+  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
 </p>
-<hr>
-<h3>And finally, for the last bundle of images we have the daily apps I use for comms or just general project management</h3>
-<p align='center'>
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/slack-original-wordmark.svg" alt="Slack" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/trello-plain-wordmark.svg" alt="Trello" width="150px" height="150px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/notion.svg" alt="Notion" width="150px" height="150px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/microsoft-teams.png" alt="MicrosoftTeams" width="150px" height="100px" />
-  <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/discord.webp" alt="Discord" width="150px" height="150px" />
+
+<h3>Mobile Development</h3>
+<p align="left"> 
+  <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
-<img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/activity-list.svg" alt="A list" width="150px" height="100px" />
-<ol>
-  <li><a href="https://profile.codersrank.io/user/rafajrg21">Coders Rank</a></li>
-  <li><a href="https://stackoverflow.com/users/9378958/rafa-romero?tab=profile">Stack Overflow</a></li>
-  <li><a href="https://www.hackerrank.com/rafajrg21">Hacker Rank</a></li>
-  <li><a href="https://www.frontendmentor.io/profile/Rafajrg21">Frontend Mentor</a></li>
-  <li><a href="https://codesandbox.io/dashboard/home">CodeSandbox</a></li>
-  <li><a href="https://codepen.io/rafajrg21">Codepen</a></li>
-  <li><a href="https://www.buymeacoffee.com/dashboard">BuyMeACoffee</a></li>
-</ol>
-<br>
-<a href="https://www.buymeacoffee.com/gheGKI0z3"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gheGKI0z3&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
-<h3 align='center'>🗻 My goals for 2020</h3>
-<ul>
-  <li> Make a Github Profile ReadMe [✔]
-  <li> Remake my Online Resume [✔]
-  <li> Update my bot Playground []
-  <li> Upload 4 new projects on my Github [✔]
-  <li> Write articles for those projects or any article []
-</ul>
-<br>
-<h3 align='center'>🌀 Some Ideas</h3>
-<ul>
-  <li> Instagram bot 
-  <li> Micro-Frontend app 
-  <li> Node server (typescript) 
-  <li> GraphQL and Mongo Api 
-  <li> Recreate a design with React and Sass 
-  <li> Recreate a design with Vue and Tailwind CSS
-  <li> Revisit my college projects 
-</ul>
-<br>
-<br>
-<h3 align='center'>And little fun fact about me...</h3> 
-<h2 align='center'>I Really love to dance 🕺🏽</h2>
+
+<h3>Other Tools</h3>
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
+  <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
+  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+</p>
+
+<h2>📈 Stats</h2>
+<p align="center"><img width=360 src="https://github-readme-stats.vercel.app/api/top-langs?username=rafajrg21&show_icons=true&locale=en&layout=compact" alt="rafajrg21" /></p>
+<p align="center">&nbsp;<img width=360 src="https://github-readme-stats.vercel.app/api?username=rafajrg21&show_icons=true&locale=en" alt="rafajrg21" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rafajrg21&label=Profile%20views&color=0e75b6&style=flat" alt="rafajrg21" /> </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/rafajrg21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rafajrg21" height="30" width="40" /></a>
+<a href="https://dev.to/rafajrg21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rafajrg21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafael-jesus-romero-gamboa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-jesus-romero-gamboa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9378958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9378958" height="30" width="40" /></a>
+<a href="https://codesandbox.com/rafajrg21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="rafajrg21" height="30" width="40" /></a>
+<a href="https://instagram.com/soy_rafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soy_rafa" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rafajrg21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rafajrg21" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">If you want to support me, buy me a coffee:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/gheGKI0z3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gheGKI0z3" /></a></p><br><br>
 <img src="https://github.com/Rafajrg21/Rafajrg21/blob/main/images/wave.svg" alt="Cool wave" />
+
+
