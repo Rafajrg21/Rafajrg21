@@ -85,6 +85,8 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
+[![An image of @rafajrg21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rafajrg21)](https://holopin.io/@rafajrg21)
+
 <h2>📈 Stats</h2>
 <p align="center"><img width=360 src="https://github-readme-stats.vercel.app/api/top-langs?username=rafajrg21&show_icons=true&locale=en&layout=compact" alt="rafajrg21" /></p>
 <p align="center">&nbsp;<img width=360 src="https://github-readme-stats.vercel.app/api?username=rafajrg21&show_icons=true&locale=en" alt="rafajrg21" /></p>
